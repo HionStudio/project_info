@@ -21,6 +21,6 @@ We build high-quality bots and reliable software, turning your routine tasks int
 ### 💬 Connect With Us
 For collaborations, custom orders, inquiries, or joining our closed beta tests — find us on social media:
 
-📱 **[Telegram]([YOUR_TELEGRAM_LINK](https://t.me/HionStudio))** | 💬 **[Discord]([YOUR_DISCORD_LINK](https://discord.gg/qZzQ7xKaR9))**
+📱 **[Telegram](https://t.me/HionStudio)** | 💬 **[Discord](https://discord.gg/qZzQ7xKaR9))**
 
 </div>
